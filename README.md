@@ -1,4 +1,4 @@
-# Agentic AI Updates
+# Agentic AI News
 
 We want to create a program like this but targeted to Agentic AI:
 
