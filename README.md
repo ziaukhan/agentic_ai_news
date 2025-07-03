@@ -1,6 +1,8 @@
 # Agentic AI News (In English)
 
-We want to create a program like this but targeted to Agentic AI:
+We want to start video program which will carry the latest agentic ai news. we will share this program on social media and on our websites.
+
+something like this but targeted to Agentic AI:
 
 https://www.facebook.com/share/r/18aZ5PZHL8/
 
@@ -21,3 +23,6 @@ https://www.epidemicsound.com/music/themes/technology/technology-soundbeds/
 
 https://www.epidemicsound.com/music/themes/technology/
 
+Background music while talking:
+
+https://www.youtube.com/watch?v=7kyi0B62rj4
